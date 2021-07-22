@@ -28,7 +28,7 @@
 
   ## Usage
 
-  ![Demo Link]('https://drive.google.com/file/d/14Cq-sR_m2OFwOmFy0EC5nJUtSHQDDr4k/view')
+  ![Demo]('/assets/ecommerce.gif')
 
   
   ## License

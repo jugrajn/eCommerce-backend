@@ -28,7 +28,11 @@
 
   ## Usage
 
+<<<<<<< HEAD
   ![Demo]('/assets/ecommerce.gif')
+=======
+  [Demo Link](https://drive.google.com/file/d/14Cq-sR_m2OFwOmFy0EC5nJUtSHQDDr4k/view)
+>>>>>>> e6d29e298ceaf65bfd858315279a07d84083189a
 
   
   ## License
